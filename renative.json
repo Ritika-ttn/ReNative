@@ -1,0 +1,40 @@
+{
+    "projectName": "ReNativeExample",
+    "workspaceID": "rnv",
+    "paths": {
+        "appConfigsDir": "./appConfigs",
+        "entryDir": "./",
+        "platformAssetsDir": "./platformAssets",
+        "platformBuildsDir": "./platformBuilds"
+    },
+    "defaults": {
+        "title": "Hello Renative",
+        "id": "com.tothenew.renativeexample",
+        "supportedPlatforms": [
+            "android",
+            "androidtv",
+            "androidwear",
+            "chromecast",
+            "firefoxos",
+            "firefoxtv",
+            "ios",
+            "kaios",
+            "macos",
+            "tizen",
+            "tizenmobile",
+            "tizenwatch",
+            "tvos",
+            "web",
+            "webos",
+            "windows"
+        ]
+    },
+    "templates": {
+        "renative-template-blank": {
+            "version": "0.31.3"
+        }
+    },
+    "currentTemplate": "renative-template-blank",
+    "isNew": true,
+    "isMonorepo": false
+}
