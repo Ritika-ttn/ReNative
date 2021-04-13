@@ -191,7 +191,7 @@ const styles = StyleSheet.create({
     padding: 20,
   },
   inactiveBtn: {
-    borderColor: 'transparent',
+    borderColor: 'yellow',
     padding: 20,
   },
   btnTxt: {
